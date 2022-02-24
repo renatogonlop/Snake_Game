@@ -25,15 +25,23 @@ main{
     padding: 15px;
 }
 
-h1, h3, strong, .explicacao, .assinatura{
+h1, h3, strong, .explicacao-txt, .assinatura{
     background-color: azure;
     color: #1c3317;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
-.explicacao{
+.explicacao-box{
+    background: transparent;
     display: flex;
-    width: 15%;
+    flex-direction: column;
+    justify-content: center;
+    width: 20%;
+    gap: 5rem;   
+}
+
+.explicacao-txt{
+    display: flex;
     padding: 10px;
     border: #1c3317 solid 6px;
     border-radius: 30px;

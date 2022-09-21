@@ -1,4 +1,5 @@
 # Snake_Game
-For small academic and free study projects.
+pt-br > Pequeno projeto acadêmico e de estudo.<br>
+en-us > Small academic and study project.
 
 Play: https://renatogonlop.github.io/Snake_Game/
